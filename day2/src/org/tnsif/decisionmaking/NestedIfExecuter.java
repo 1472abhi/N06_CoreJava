@@ -25,7 +25,6 @@ public class NestedIfExecuter {
 			System.out.println("not eligible");
 
 		}
-		// TODO Auto-generated method stub
 
 	}
 

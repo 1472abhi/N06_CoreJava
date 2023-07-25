@@ -10,7 +10,6 @@ public class WhileLoop {
 
 	public static void main(String[] args) {
 		Loop(20);
-		// TODO Auto-generated method stub
 
 	}
 

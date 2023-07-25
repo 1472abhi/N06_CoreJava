@@ -8,7 +8,7 @@ public class DoWhileExecutor {
 			System.out.println("The value of n is : "+n);
 			n++;
 		}while(n<15);
-		// TODO Auto-generated method stub
+		
 
 	}
 

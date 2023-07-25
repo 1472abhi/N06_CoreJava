@@ -15,7 +15,6 @@ public class forLoopExecutor {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		HalfPyramid(n);
-		// TODO Auto-generated method stub
 
 	}
 

@@ -26,7 +26,6 @@ public class CascadedIfElseExecutor {
 			System.out.println("age3 is grater : "+age3);
 
 		}
-		// TODO Auto-generated method stub
 
 	}
 

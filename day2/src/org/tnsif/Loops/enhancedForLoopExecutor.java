@@ -8,7 +8,6 @@ public class enhancedForLoopExecutor {
 		for(int i:c) {
 			System.out.println(i +" ");
 		}
-		// TODO Auto-generated method stub
 
 	}
 
